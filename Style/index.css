@@ -1,0 +1,311 @@
+.navbar{
+    background-color: gray;
+}
+.nav-link{
+    color: black;
+}
+.btn-outline-success:hover {
+    background-color: dodgerblue;
+    
+}
+.btn-outline-success{
+    --bs-btn-border-color: #000000;
+    --bs-btn-color: #000000;
+    --bs-btn-hover-bg: #141abd
+}
+.bg-pic{
+    background: url(/Assets/display\ pic\ 1\ \(1\).jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.lrm{
+    max-width: 550px;
+    margin: 25px auto;
+    color: white;
+}
+ 
+
+   
+    
+
+@media screen and (max-width: 576px) {
+    .cards{
+        margin-left: 25px;
+    }
+
+  }
+  .feature{
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+  }
+  #features{
+    background-color: darkgray;
+  }
+  
+
+.pd{
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  .section-intro{
+    text-align: center;
+margin-bottom: 16px;
+margin-top: 30px;
+}
+
+#testimonials{
+    background-color: darkgrey;
+
+}
+
+.revi{
+    padding-bottom: 320px;
+}
+
+
+.section-intro{
+    text-align: center;
+margin-bottom: 16px;
+}
+
+
+.section-intro .hline{
+    width: 120px;
+    height: 2px;
+    background-color: rgba(5, 0, 0, 0.164);
+    margin: 16px auto 0 auto;
+}
+
+
+.review p{
+    max-width: 600px;
+    margin: 24px auto;
+    font-style: italic
+}
+
+.test-images img{
+    height: 65px;
+    width: 65px;
+    border-radius: 100px;
+    transition: all 0.4s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#conct .hline{
+
+
+    width: 120px;
+    height: 2px;
+    background-color: rgba(5, 0, 0, 0.164);
+    margin: 16px auto 0 auto;
+    
+}
+
+.mc{
+
+    background-color: darkgray;
+    
+
+}
+.contactline{
+    padding-bottom: 250px;
+}
+
+.contactone{
+ padding-top: 10px;
+ padding-bottom: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.section-3{
+    background-color:#26272b;  
+    color:white;
+}
+
+
+
+.site-footer hr
+{
+  border-top-color:#bbb;
+  opacity:0.5
+}
+.site-footer hr.small
+{
+  margin:20px 0
+}
+.site-footer h6
+{
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
+}
+.site-footer a
+{
+  color:#737373;
+}
+.site-footer a:hover
+{
+  color:dodgerblue;
+  text-decoration:none;
+}
+.footer-links
+{
+  padding-left:0;
+  list-style:none
+}
+.footer-links li
+{
+  display:block
+}
+.footer-links a
+{
+  color:#fbf9f9
+}
+.footer-links a:active,.footer-links a:focus,.footer-links a:hover
+{
+  color:dodgerblue;
+  text-decoration:none;
+}
+.footer-links.inline li
+{
+  display:inline-block
+}
+.site-footer .social-icons
+{
+  text-align:right
+}
+.site-footer .social-icons a
+{
+  width:40px;
+  height:40px;
+  line-height:40px;
+ 
+  border-radius:100%;
+  background-color:#24253d
+}
+.copyright-text
+{
+  margin:0
+}
+@media (max-width:991px)
+{
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+}
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+}
+.social-icons
+{
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none
+}
+.social-icons li
+{
+  display:inline-block;
+  margin-bottom:4px
+}
+.social-icons li.title
+{
+  margin-right:15px;
+  text-transform:uppercase;
+  color:#96a2b2;
+  font-weight:700;
+  font-size:13px
+}
+.social-icons a{
+  
+  font-size:16px;
+  display:inline-block;
+  text-align:center;
+  margin-right:8px;
+  border-radius:100%;
+}
+
+
+.social-icons a:active,.social-icons a:focus,.social-icons a:hover
+{
+  color:#fff;
+  background-color: dodgerblue;
+}
+
+
+
+@media (max-width:767px)
+{
+  .social-icons li.title
+  {
+    display:block;
+    margin-right:0;
+    font-weight:600
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
