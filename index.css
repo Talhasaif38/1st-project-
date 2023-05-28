@@ -14,7 +14,7 @@
     --bs-btn-hover-bg: #141abd
 }
 .bg-pic{
-    background: url('./Assets/my\ pic.jpg');
+    background: url('./Assets/my-pic.jpg');
     height: 100vh;
     width: 100%;
     background-position: center center;
